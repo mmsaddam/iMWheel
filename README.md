@@ -6,6 +6,8 @@
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
 )](http://mit-license.org)
 
+![sample](screenshots/img1.png)
+
 ##Language
 
 Objective-C
