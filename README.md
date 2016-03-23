@@ -21,7 +21,7 @@ Only for iPhone 5, iPod Touch 5G iPhone 6, iPhone 6 Plus
  
 
 ##About The App
-Under Development
+Sample iOS Wheel library in Objective C.
 
 
 ## Contributing
