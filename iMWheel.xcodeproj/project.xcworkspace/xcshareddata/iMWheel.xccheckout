@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13D97343-69E6-4AC1-ACB6-F3D3B5D33FE5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iMWheel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC9AA87DB5D2E14A0E16F2F708B927B25FAC17E3</key>
+		<string>https://bitbucket.org/mmsaddam/imwheel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iMWheel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC9AA87DB5D2E14A0E16F2F708B927B25FAC17E3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/mmsaddam/imwheel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC9AA87DB5D2E14A0E16F2F708B927B25FAC17E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC9AA87DB5D2E14A0E16F2F708B927B25FAC17E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iMWheel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
